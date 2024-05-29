@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "458758940303",
+    "firebase_url": "https://canauction-c9c0a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "canauction-c9c0a",
+    "storage_bucket": "canauction-c9c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458758940303:android:f6155d893f4752f0d9f2fa",
+        "android_client_info": {
+          "package_name": "app.ralpdevs.canauction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-t-FC3bHyuKPYW-T6kO1eCD2ICeN2j9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
